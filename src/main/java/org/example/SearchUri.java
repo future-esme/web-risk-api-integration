@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.model.ThreatType;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;

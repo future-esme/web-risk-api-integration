@@ -1,5 +1,6 @@
 package org.example;
 
+import org.example.model.ThreatType;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
